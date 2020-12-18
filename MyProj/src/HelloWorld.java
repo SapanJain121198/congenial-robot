@@ -6,6 +6,8 @@ public class HelloWorld {
 		System.out.println("Namaste");
 		int a=10;
 		float b= 15.40f;
+		
+		int c=45;
 	}
 
 }
