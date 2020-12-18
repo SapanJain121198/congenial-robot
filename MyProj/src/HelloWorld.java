@@ -8,6 +8,8 @@ public class HelloWorld {
 
 		int a=10;
 		float b= 15.40f;
+		
+		int f=40;
 	}
 
 }
