@@ -8,6 +8,7 @@ public class College {
 		
 		
 		int r= 10;
+		int x=20;
 	}
 
 }
